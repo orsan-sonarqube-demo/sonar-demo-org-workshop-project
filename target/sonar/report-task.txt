@@ -1,0 +1,7 @@
+organization=orsan-sonarqube-demo
+projectKey=orsan-sonarqube-demo_sonar-demo-org-workshop-project
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.60272
+dashboardUrl=https://sonarcloud.io/dashboard?id=orsan-sonarqube-demo_sonar-demo-org-workshop-project
+ceTaskId=AZVqWolJzHp0g0tPplrk
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZVqWolJzHp0g0tPplrk
